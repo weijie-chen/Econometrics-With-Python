@@ -15,3 +15,5 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 - [x] NumPy
 - [x] Matplotlib
 - [x] Pandas
+
+updating....
