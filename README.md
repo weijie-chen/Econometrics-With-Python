@@ -18,4 +18,6 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 - [x] Matplotlib
 - [x] Pandas
 
+## Contents
+[Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
 <b>updating...</b>
