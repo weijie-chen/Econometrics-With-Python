@@ -23,3 +23,4 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
 <b>updating...</b>
+This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
