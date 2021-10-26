@@ -23,4 +23,15 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
 <b>updating...</b>
+Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity
+Lecture 3 - Practical Cases of Linear Regression 
+Lecture 4 - Dummy Variable
+Lecture 5 - Nonlinear Regression
+Lecture 6 - Qualitative Response Model
+Lecture 7 - Model Specification
+Lecture 8 - Identification and Simultaneous-Equation Models
+Lecture 9 - Panel Data Analysis
+Lecture 10 - Autocorrelation
+Lecture 11 - Time Series Basics
+
 This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
