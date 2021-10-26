@@ -22,7 +22,6 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 <b>I strongly suggest to download all the files to view them on your PC, since nbviewer and Github has frequent rendering glitches.</b><br>
 
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
-<b>updating...</b>
 Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity<br>
 Lecture 3 - Practical Cases of Linear Regression <br>
 Lecture 4 - Dummy Variable<br>
