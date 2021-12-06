@@ -35,3 +35,21 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 [Lecture 12 - Time Series: Forecast](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/12.%20Time%20Series%20-%20Forcasting.ipynb)
 <br>
 This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
+
+## Screen Shots Demonstrations
+![截图01](https://user-images.githubusercontent.com/59842360/144827958-bcd71d00-ac22-423f-84a6-4d2af87c676b.jpg)
+![截图02](https://user-images.githubusercontent.com/59842360/144827956-016047c1-0a08-4baa-9118-53395eff6bad.jpg)
+![截图03](https://user-images.githubusercontent.com/59842360/144827959-260979c8-1c36-4cf1-a7e7-ba9716de4578.jpg)
+![截图04](https://user-images.githubusercontent.com/59842360/144828132-1307ef49-aab4-471f-897e-a4229ddc6045.jpg)
+![截图06](https://user-images.githubusercontent.com/59842360/144827965-aec7f52f-8c65-49e8-9d7e-292218c3d989.jpg)
+![截图07](https://user-images.githubusercontent.com/59842360/144827943-e09bcb3d-d53e-470f-aa46-82952c91b1a2.jpg)
+![截图08](https://user-images.githubusercontent.com/59842360/144827948-8c2c3842-564e-4d87-bbea-bf09852fe294.jpg)
+![截图09](https://user-images.githubusercontent.com/59842360/144827954-09b97a8f-3ebc-4658-b9c5-d9cd0115be4a.jpg)
+![截图10](https://user-images.githubusercontent.com/59842360/144827961-ff799a3c-7156-4e96-bcb3-2b6411e34508.jpg)
+![截图11](https://user-images.githubusercontent.com/59842360/144827963-a36b6f94-8a05-4445-a3bd-f8273859f585.jpg)
+![截图12](https://user-images.githubusercontent.com/59842360/144827971-f96dcc20-0ed4-467b-ae93-5747b62541f4.jpg)
+![截图13](https://user-images.githubusercontent.com/59842360/144827972-6ef99513-1305-4007-a990-3165f1949d42.jpg)
+![截图14](https://user-images.githubusercontent.com/59842360/144827975-de11727a-3297-423f-9954-cd000f1a4862.jpg)
+![截图15](https://user-images.githubusercontent.com/59842360/144827977-18cef5d4-8175-4fb3-8b03-ecb454365169.jpg)
+![截图16](https://user-images.githubusercontent.com/59842360/144827980-6135c943-2f07-4a52-b2a8-fb2f5cb2d32a.jpg)
+![截图17](https://user-images.githubusercontent.com/59842360/144827978-24da8d60-8cae-4163-b3a0-84119b8ef9c6.jpg)
