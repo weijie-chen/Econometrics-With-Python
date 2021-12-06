@@ -22,7 +22,7 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 <b>I strongly suggest to download all the files to view them on your PC, since nbviewer and Github has frequent rendering glitches.</b><br>
 
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
-Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity<br>
+[Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/2.%20Multiple%20Linear%20Regression%2C%20Multicollinearity%20and%20Heteroscedasticity.ipynb)<br>
 Lecture 3 - Practical Cases of Linear Regression <br>
 Lecture 4 - Dummy Variable<br>
 Lecture 5 - Nonlinear Regression<br>
@@ -32,5 +32,6 @@ Lecture 8 - Identification and Simultaneous-Equation Models<br>
 Lecture 9 - Panel Data Analysis<br>
 Lecture 10 - Autocorrelation<br>
 Lecture 11 - Time Series Basics<br>
+
 <br>
 This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
