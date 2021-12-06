@@ -28,10 +28,10 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 [Lecture 5 - Nonlinear Regression](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/5.%20Nonlinear%20Regression.ipynb)<br>
 [Lecture 6 - Qualitative Response Model](https://github.com/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/6.%20Qualitative%20Response%20Model%20.ipynb)<br>
 [Lecture 7 - Model Specification](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/7.%20Model%20Specification.ipynb)<br>
-[Lecture 8 - Identification and Simultaneous-Equation Models]<br>
-Lecture 9 - Panel Data Analysis<br>
-Lecture 10 - Autocorrelation<br>
-Lecture 11 - Time Series Basics<br>
-
+[Lecture 8 - Identification and Simultaneous-Equation Models](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/7.%20Model%20Specification.ipynb)<br>
+[Lecture 9 - Panel Data Analysis](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/9.%20Panel%20Data%20Analysis.ipynb)<br>
+[Lecture 10 - Autocorrelation](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/10.%20Autocorrelation.ipynb)<br>
+[Lecture 11 - Time Series: Basics](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/11.%20Time%20Series%20-%20Basics.ipynb)<br>
+[Lecture 12 - Time Series: Forecast](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/12.%20Time%20Series%20-%20Forcasting.ipynb)
 <br>
 This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
