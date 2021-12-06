@@ -24,11 +24,11 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
 [Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/2.%20Multiple%20Linear%20Regression%2C%20Multicollinearity%20and%20Heteroscedasticity.ipynb)<br>
 [Lecture 3 - Practical Cases of Linear Regression](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/3.%20Practical%20Cases%20of%20Linear%20Regression%20.ipynb)<br>
-Lecture 4 - Dummy Variables<br>
-Lecture 5 - Nonlinear Regression<br>
-Lecture 6 - Qualitative Response Model<br>
-Lecture 7 - Model Specification<br>
-Lecture 8 - Identification and Simultaneous-Equation Models<br>
+[Lecture 4 - Dummy Variables](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/4.%20Dummy%20Variable.ipynb)<br>
+[Lecture 5 - Nonlinear Regression](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/5.%20Nonlinear%20Regression.ipynb)<br>
+[Lecture 6 - Qualitative Response Model](https://github.com/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/6.%20Qualitative%20Response%20Model%20.ipynb)<br>
+[Lecture 7 - Model Specification](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/7.%20Model%20Specification.ipynb)<br>
+[Lecture 8 - Identification and Simultaneous-Equation Models]<br>
 Lecture 9 - Panel Data Analysis<br>
 Lecture 10 - Autocorrelation<br>
 Lecture 11 - Time Series Basics<br>
