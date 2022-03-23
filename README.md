@@ -1,3 +1,5 @@
+![econometrics](https://user-images.githubusercontent.com/59842360/159696434-5767ea11-5224-40e6-9edc-3a5f50f9740e.jpg)
+
 # Basic Econometrics With Python [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 [last updated in 6th Jan 2022]<br>
 These lecture notes are intended for introductory econometrics course (originally used for new-hire training in the hedge fund that I was working in), suitable for university/grad students, data/quantitative analysts, junior business/economic/financial researchers and etc. 
