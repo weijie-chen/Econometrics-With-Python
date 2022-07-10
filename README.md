@@ -1,8 +1,10 @@
 ![Cover_Github_Repositories1](https://user-images.githubusercontent.com/59842360/178134712-79b96545-2fee-40c5-b674-0708a207cfa8.jpg)
 
-# Basic Econometrics With Python [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
-[last updated in 6th Jan 2022]<br>
-These lecture notes are intended for introductory econometrics course (originally used for new-hire training in the hedge fund that I was working in), suitable for university/grad students, data/quantitative analysts, junior business/economic/financial researchers and etc. 
+# Econometrics With Python [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
+[last updated in 10th July 2022]<br>
+These lecture notes are intended for econometrics training (originally used for new-hire training in the hedge fund that I was working in), suitable for university/grad students, data/quantitative analysts, junior business/economic/financial researchers and etc. The training are in two parts, the first part cover basic level and implementation in Python, the second part dive deeper into the econometric/statistical theory which is much more mathematical intensive.
+
+This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials.
 
 The lectures notes are loosely based on several textbooks:<br>
 
@@ -13,16 +15,17 @@ The lectures notes are loosely based on several textbooks:<br>
 ![covers_economtrics-min](https://user-images.githubusercontent.com/59842360/126119680-edc6006d-2458-4ae6-8be1-5d587d37ecb5.jpg)
 
 ## Prerequisites
-Though the lectures are introductory level, it would be ideal that attendants have a slight exposure to probability theory and statistics.
+The first part is introductory level, it requires trainees have basic knowledge of statistics and probability theory. The second part require linear algebra.
 
-And you would benefit more from the tutorials if you have basic knowledge of: 
+And you would benefit more from the tutorials if you have some skills of: 
 - [x] NumPy
 - [x] Matplotlib
 - [x] Pandas
 
 ## Contents
-<b>I strongly suggest to download all the files to view them on your PC, since nbviewer and Github has frequent rendering glitches.</b><br>
+<b>I strongly advise you to download all the files to view them on your PC, since nbviewer and Github has frequent rendering glitches.</b><br>
 
+### Part I
 [Lecture 1 - Simple Linear Regression](https://nbviewer.jupyter.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/1.%20Simple%20Linear%20Regression.ipynb)<br>
 [Lecture 2 - Multiple Linear Regression, Multicollinearity and Heteroscedasticity](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/2.%20Multiple%20Linear%20Regression%2C%20Multicollinearity%20and%20Heteroscedasticity.ipynb)<br>
 [Lecture 3 - Practical Cases of Linear Regression](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/3.%20Practical%20Cases%20of%20Linear%20Regression%20.ipynb)<br>
@@ -36,7 +39,13 @@ And you would benefit more from the tutorials if you have basic knowledge of:
 [Lecture 11 - Time Series: Basics](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/11.%20Time%20Series%20-%20Basics.ipynb)<br>
 [Lecture 12 - Time Series: Forecast](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/12.%20Time%20Series%20-%20Forcasting.ipynb)
 <br>
-This set of notes are rewritten from my MATLAB econometrics notes, which are outdated. I am still organizing the old materials 
+### Part II
+[Lecture 1 - Geometry of OLS]
+[Lecture 2 - Statistical Properties of OLS]
+[Lecture 3 - Hypothesis Test and Confidence Interval]
+
+
+
 
 ## Screen Shots Demonstrations
 ![截图01](https://user-images.githubusercontent.com/59842360/144827958-bcd71d00-ac22-423f-84a6-4d2af87c676b.jpg)
