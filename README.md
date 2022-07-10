@@ -1,4 +1,4 @@
-![econometrics](https://user-images.githubusercontent.com/59842360/159696434-5767ea11-5224-40e6-9edc-3a5f50f9740e.jpg)
+![Cover_Github_Repositories1](https://user-images.githubusercontent.com/59842360/178134712-79b96545-2fee-40c5-b674-0708a207cfa8.jpg)
 
 # Basic Econometrics With Python [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 [last updated in 6th Jan 2022]<br>
