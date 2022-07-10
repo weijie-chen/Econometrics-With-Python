@@ -40,9 +40,9 @@ And you would benefit more from the tutorials if you have some skills of:
 [Lecture 12 - Time Series: Forecast](https://nbviewer.org/github/MacroAnalyst/Basic_Econometrics_With_Python/blob/main/12.%20Time%20Series%20-%20Forcasting.ipynb)
 <br>
 ### Part II
-[Lecture 1 - Geometry of OLS]
-[Lecture 2 - Statistical Properties of OLS]
-[Lecture 3 - Hypothesis Test and Confidence Interval]
+[Lecture 1 - Geometry of OLS]<br>
+[Lecture 2 - Statistical Properties of OLS]<br>
+[Lecture 3 - Hypothesis Test and Confidence Interval]<br>
 
 
 
