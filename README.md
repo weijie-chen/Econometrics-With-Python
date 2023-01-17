@@ -41,8 +41,8 @@ And you would benefit more from the tutorials if you have some skills of:
 <br>
 ### Part II
 [Lecture 1 - Geometry of OLS](https://nbviewer.org/github/MacroAnalyst/Econometrics_With_Python/blob/main/Chapter%201%20-%20Geometry%20of%20Ordinary%20Least%20Squares.ipynb)<br>
-[Lecture 2 - Statistical Properties of OLS]<br>
-[Lecture 3 - Hypothesis Test and Confidence Interval]<br>
+[Lecture 2 - Statistical Properties of OLS](https://nbviewer.org/github/weijie-chen/Econometrics-With-Python/blob/main/Chapter%202%20-%20Statistical%20Properties%20of%20OLS.ipynb)<br>
+[Lecture 3 - Hypothesis Test and Confidence Interval](https://nbviewer.org/github/weijie-chen/Econometrics-With-Python/blob/main/Chapter%203%20-%20Hypothesis%20Test%20and%20Confidence%20Interval.ipynb)<br>
 
 
 
