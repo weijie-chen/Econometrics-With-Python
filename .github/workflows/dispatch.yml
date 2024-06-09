@@ -1,0 +1,18 @@
+name: Trigger weijie-chen repo Workflow
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repository Dispatch
+      uses: peter-evans/repository-dispatch@v3.0.0
+      with:
+        token: ${{ secrets.PAT }}
+        repository: weijie-chen/weijie-chen
+        event-type: update-from-repo
